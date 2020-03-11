@@ -1,0 +1,2 @@
+# Full-Adder-Subtractor
+This is a project I made for one of my classes. It demonstrates addition and subtraction in binary with the use of LED lights. The leftmost light is the overflow light which shows when the magnitude of the number exceeds the bit field. The second to the leftmost light shows the most significant bit and sign of the number while the rightmost light shows the least significant bit. Included is a video demonstration of addition and subtraction.
